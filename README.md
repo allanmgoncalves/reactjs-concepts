@@ -22,5 +22,5 @@ Continuação do desenvolvimento da aplicação que irá armazenar repositórios
 
 ---
 
-By AllanCoder 🚀
+By AllanCoder 🚀<br>
 Instagram: @allan.coder
